@@ -1,0 +1,6 @@
+C:\Users\missa\source\repos\PluginTabControl\TabExtension\bin\Debug\TabExtension.dll
+C:\Users\missa\source\repos\PluginTabControl\TabExtension\bin\Debug\TabExtension.pdb
+C:\Users\missa\source\repos\PluginTabControl\TabExtension\obj\Debug\TabExtension.csproj.AssemblyReference.cache
+C:\Users\missa\source\repos\PluginTabControl\TabExtension\obj\Debug\TabExtension.csproj.CoreCompileInputs.cache
+C:\Users\missa\source\repos\PluginTabControl\TabExtension\obj\Debug\TabExtension.dll
+C:\Users\missa\source\repos\PluginTabControl\TabExtension\obj\Debug\TabExtension.pdb
