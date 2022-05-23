@@ -1,0 +1,11 @@
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\bin\Debug\Tab Exemple.dll
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\bin\Debug\Tab Exemple.pdb
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\bin\Debug\TabExtension.dll
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\bin\Debug\TabExtension.pdb
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\obj\Debug\Tab Exemple.csproj.AssemblyReference.cache
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\obj\Debug\Tab_Exemple.UserControl1.resources
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\obj\Debug\Tab Exemple.csproj.GenerateResource.cache
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\obj\Debug\Tab Exemple.csproj.CoreCompileInputs.cache
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\obj\Debug\Tab Exemple.csproj.CopyComplete
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\obj\Debug\Tab Exemple.dll
+C:\Users\missa\source\repos\PluginTabControl\Tab Exemple\obj\Debug\Tab Exemple.pdb

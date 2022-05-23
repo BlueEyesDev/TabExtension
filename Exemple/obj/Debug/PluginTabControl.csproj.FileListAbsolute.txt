@@ -1,0 +1,14 @@
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\bin\Debug\PluginTabControl.exe.config
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\bin\Debug\PluginTabControl.exe
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\bin\Debug\PluginTabControl.pdb
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\bin\Debug\TabExtension.dll
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\bin\Debug\TabExtension.pdb
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\obj\Debug\PluginTabControl.csproj.AssemblyReference.cache
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\obj\Debug\PluginTabControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\obj\Debug\PluginTabControl.Form1.resources
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\obj\Debug\PluginTabControl.Properties.Resources.resources
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\obj\Debug\PluginTabControl.csproj.GenerateResource.cache
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\obj\Debug\PluginTabControl.csproj.CoreCompileInputs.cache
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\obj\Debug\PluginTabControl.csproj.CopyComplete
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\obj\Debug\PluginTabControl.exe
+C:\Users\missa\source\repos\PluginTabControl\PluginTabControl\obj\Debug\PluginTabControl.pdb
