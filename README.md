@@ -18,3 +18,14 @@ For an automatic copy of the library modify the .csproj file of the library to a
 ```
 
 and changed "Example" to your application path
+
+to disable autoupdate this piece of code in the Program.cs file
+```csharp
+	Config.Url = "http://localhost/";
+```
+
+If you want to enable it change http://localhost/ to the path of your example website:
+```csharp
+	Config.Url = "http://exemple.com/www/";
+```
+and upload the contents of the file to your FTP server, then you would just have to put the .Tabs in the folder
