@@ -28,4 +28,5 @@ If you want to enable it change http://localhost/ to the path of your example we
 ```csharp
 	Config.Url = "http://exemple.com/www/";
 ```
-and upload the contents of the file to your FTP server, then you would just have to put the .Tabs in the folder
+and upload the contents of the file to your FTP server, 
+then you would just have to put the .Tabs in the folder for it to be downloaded!
